@@ -3,7 +3,7 @@ GDG Milan Quiz
 
 Google Developer Group Milan Quiz at Codemotion Milan 2014
 
-![Image](../blob/master/gdg.jpg?raw=true)
+![Image](https://github.com/TheZ3ro/gdg-milan-quiz/blob/master/gdg.jpg?raw=true)
 
 ## Quiz 1: Sum
 
